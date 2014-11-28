@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: com.xxstop.net.connect.zdsoft
+Implementation-Vendor: JGoodies Karsten Lentzsch
+Ant-Version: Apache Ant 1.6.5
+Implementation-Title: JGoodies Forms
+Implementation-Version: 1.0.7 2006-05-03 10:48:21
+Specification-Vendor: JGoodies Karsten Lentzsch
+Built-By: Karsten
+Specification-Title: JGoodies Forms API Specification
+Created-By: 1.5.0_06-b05 (Sun Microsystems Inc.)
+Specification-Version: 1.0
+
